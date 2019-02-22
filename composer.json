@@ -1,0 +1,16 @@
+{
+    "name": "leander/youdao-ai",
+    "description": "third-party youdao ai sdk for php",
+    "type": "library",
+    "require": {
+        "php": "5.6.3"
+    },
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Leander Chen",
+            "email": "leander@tchost.cn"
+        }
+    ],
+    "minimum-stability": "beta"
+}
