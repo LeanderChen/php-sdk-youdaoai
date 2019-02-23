@@ -1,6 +1,6 @@
 # php-sdk-youdaoai
 
-有道AI第三方PHP-SDK，目前维护者只有一人，出于项目需要与兴趣维护她。如果你有bug反馈欢迎提供issues，如果你对项目维护迭代有想法，也欢迎[@leander](mailto:leander@tchost.cn)。
+有道AI第三方PHP-SDK，目前维护者只有一人，出于项目需要与兴趣维护她。如果你有bug反馈欢迎提供issues，如果你对项目维护迭代有想法，也欢迎[@leander](mailto:leander@tchost.cn)。  
 
 ## 安装  
 
