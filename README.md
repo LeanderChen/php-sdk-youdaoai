@@ -49,7 +49,7 @@ cp /src/conf.inc.php.example /src/conf.inc.php
 
 配置项参照表如下：
 | 名称 | 别名 | 默认值 | 版本支持 | 备注 |
-| --- | --- | --- | --- | --- |
+| ------ | ------ | ------ | ------ | ------ |
 | 应用参数 | | | | |
 | API_SERV | api服务器 | <http://openapi.youdao.com/> | ~1.0 | |
 | APP_KEY | 应用编号 | | ~1.0 | |
@@ -63,7 +63,7 @@ cp /src/conf.inc.php.example /src/conf.inc.php
 请自行查阅官方文档，了解各接口作用：<https://ai.youdao.com/docs/doc-trans-api.s#p01>  
 我们对接口名进行了抽象映射，接口目录如下：
 | 映射名 | 官方路径 | 别名 | 参数 | 描述 | 备注 |
-| --- | --- | --- | --- | --- | --- |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | trans | api | 自然语言翻译 | ... | ... | |
 | sti | speechtransapi | 语音翻译 | ... | ... | |
 | oti | ocrtransapi | ocr文档翻译 | ... | ... | |

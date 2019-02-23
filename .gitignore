@@ -1,5 +1,6 @@
 # local files #
 composer.lock
+vendor/
 
 # sensitive files $
 src/conf.inc.php
