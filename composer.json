@@ -3,7 +3,8 @@
     "description": "third-party youdao ai sdk for php",
     "type": "library",
     "require": {
-        "php": "5.6.3"
+        "php": ">=5.6.3",
+        "guzzlehttp/guzzle": "^6.3"
     },
     "license": "Apache-2.0",
     "authors": [

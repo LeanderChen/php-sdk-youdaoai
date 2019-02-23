@@ -1,2 +1,5 @@
 # local files #
+composer.lock
 
+# sensitive files $
+src/conf.inc.php
