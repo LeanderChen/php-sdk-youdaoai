@@ -12,7 +12,7 @@ composer require leander/youdao-ai
 
 - 手动安装  
 
-你需要从release中选择稳定版本下载，并将sdk主文件require进项目源文件。
+你需要从release中选择稳定版本下载，并将sdk主文件require进项目源文件。  
 
 ```php
 require "/youdao-ai/src/sdk.class.php";
