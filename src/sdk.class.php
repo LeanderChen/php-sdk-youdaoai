@@ -15,7 +15,7 @@ defined('SDK_PATH') OR define('SDK_PATH', dirname(__FILE__).DS);
 //定义软件名称，版本号等信息
 define('SDK_NAME','YoudaoAi-sdk-php');
 define('SDK_VERSION','1.0.0');
-define('SDK_AUTHOR', 'chenhu@mutaoinc.com');
+define('SDK_AUTHOR', 'leander@tchost.cn');
 
 //加载conf.inc.php文件
 require_once SDK_PATH.'conf.inc.php';
@@ -33,7 +33,7 @@ class SDK_Exception extends Exception {}
 
 /**
  * SDK基础类
- * @author chenhu@mutaoinc.com
+ * @author leander@tchost.cn
  * @since 2012-05-31
  */
 class YoudaoAi{
@@ -89,7 +89,7 @@ class YoudaoAi{
 	 * @param string $seckey (Optional)
 	 * 
 	 * @throws SDK_Exception
-	 * @author	chenhu@mutaoinc.com
+	 * @author	leander@tchost.cn
 	 * @since	2011-11-08
 	 */
 	public function __construct($appkey = NULL,$seckey = NULL){
